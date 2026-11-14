@@ -1,0 +1,20 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use these repository materials, please cite them using this metadata and record
+  the commit or release used. This metadata does not assert publication or replace citations
+  to individual works.
+title: High Performance Software Foundation Technical Advisory Council
+authors:
+- name: High Performance Software Foundation Technical Advisory Council project
+  website: https://github.com/hpsfoundation/tac
+repository-code: https://github.com/edithatogo/tac
+url: https://github.com/edithatogo/tac
+preferred-citation:
+  type: generic
+  title: High Performance Software Foundation Technical Advisory Council
+  authors:
+  - name: High Performance Software Foundation Technical Advisory Council project
+    website: https://github.com/hpsfoundation/tac
+  url: https://github.com/edithatogo/tac
+abstract: This repository is a fork of hpsfoundation/tac. The upstream project retains its
+  authorship and attribution. Cite the exact repository revision used.
